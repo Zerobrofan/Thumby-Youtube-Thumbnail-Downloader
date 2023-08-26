@@ -10,6 +10,8 @@
   A simple web app to download youtube video thumbnails easily at max resolution.
   <br>
   Made using HTML, CSS, JavaScript and 9 lines of PHP 😁.
+  <br>  <br>
+  This project is hosted on <a href="www.infinityfree.com">infinityfree</a>.
 
   <a href="http://thumby.infinityfreeapp.com/?i=1"><strong>➥ Live Demo</strong></a>
 
