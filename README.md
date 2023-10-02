@@ -11,7 +11,7 @@
   <br>
   Made using HTML, CSS, JavaScript and 9 lines of PHP 😁.
   <br>  <br>
-  This project is hosted on <a href="www.infinityfree.com">InfinityFree</a>.
+  This project is hosted on <a href="https://www.infinityfree.com/">InfinityFree</a>.
 
   <a href="http://thumby.infinityfreeapp.com/?i=1"><strong>➥ Live Demo</strong></a>
 
